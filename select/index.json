@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "Premier Inn",
+  "base_artist": "Good Kid",
+  "createdAt": "2026-03-30T03:11:42.973458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Premier Inn",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/01_Premier_Inn_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Premier Inn (WAV)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/02_Premier_Inn_(WAV)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Premier Inn (Instrumental)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/03_Premier_Inn_(Instrumental)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Premier Inn",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/04_Premier_Inn_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "06 Premier Inn (INST Mastered REV4)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/05_06_Premier_Inn_(INST_Mastered_REV4)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Kid - Premier Inn (Official Video)",
+      "artist": "Good Kid",
+      "has_synced": false,
+      "path": "select/06_Good_Kid_-_Premier_Inn_(Official_Video)_Good_Kid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Premier Inn (Paused)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/07_Premier_Inn_(Paused)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Premier Inn",
+      "artist": "Song, Good Kid",
+      "has_synced": true,
+      "path": "select/08_Premier_Inn_Song,_Good_Kid.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Premier Inn",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/localdb_01_Premier_Inn_Good_Kid.lrc",
+      "repo_name": "p_IXiz0z6Qk"
+    }
+  ]
+}
